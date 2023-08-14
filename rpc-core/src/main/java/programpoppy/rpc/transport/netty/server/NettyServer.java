@@ -1,4 +1,6 @@
 package programpoppy.rpc.transport.netty.server;
 
-public class NettyServer extends AbstractRpcServer{
+import programpoppy.rpc.transport.AbstractRpcServer;
+
+public class NettyServer extends AbstractRpcServer {
 }
